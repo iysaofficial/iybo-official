@@ -1,0 +1,53 @@
+const ContactComp = () =>{
+    return(
+        <>
+        <section className="contact-section" id="contact">
+            <div className="contact-container">
+                <h1>Contact Us</h1>
+                <div className="content">
+                    <div className="left-side">
+                        <div className="address details">
+                            <i className="fas fa-map-marker-alt"></i>
+                            <div className="text-one">Address</div>
+                            <div className="text-one"><a href="https://goo.gl/maps/9x18coXGCmSscKec6" target="_blank">Jl. Kemang, Pasir Putih, Kecamatan. Sawangan, Kota Depok, Jawa Barat 16519</a></div>
+                            <div className="text-two"></div>
+                        </div>
+                        <div className="phone details">
+                            <i className="fas fa-phone-alt"></i>
+                            <div className="text-one">Phone</div>
+                            <div className="text-one"><a href="https://wa.me/+6281770914129" target="_blank">+62817-7091-4129</a></div>
+                            <div className="text-two"></div>
+                        </div>
+                        <div className="email details">
+                            <i className="fas fa-envelope"></i>
+                            <div className="text-one">Email</div>
+                            <div className="text-one"><a href="mailto:youngscientist.iysa@gmail.com" target="_blank">youngscientist.iysa@gmail.com</a></div>
+                            <div className="text-two"></div>
+                        </div>
+                    </div>
+                    <div className="right-side">
+                        <div className="topic-text">Send us a message</div>
+                        {/* <p>If you have any work from me or any types of quries related to my tutorial, you can send me message from here. it's my pleasure to help you.</p> */}
+                        <form action="#">
+                            <div className="input-box">
+                                <input type="text" placeholder="Enter your name"/>
+                            </div>
+                            <div className="input-box">
+                                <input type="email" placeholder="Enter your email"/>
+                            </div>
+                            <div className="input-box message-box">
+                                <textarea placeholder="Enter your message"></textarea>
+                            </div>
+                            <div className="button">
+                                <input type="button" value={"Send"}/>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </>       
+    )
+}
+
+export default ContactComp

@@ -1,0 +1,70 @@
+/* Navbar.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background-color: #f8f9fa; /* Warna latar belakang navbar */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Efek bayangan (shadow) */
+}
+
+.navbar-logo {
+  font-size: 1.5rem;
+}
+
+.navbar-links {
+  display: flex;
+}
+
+.navbar-links a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #343a40; /* Warna teks */
+}
+
+/* Dropdown styling */
+.navbar-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: #343a40;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff; /* Warna latar belakang dropdown */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Efek bayangan dropdown */
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: #343a40;
+  padding: 12px 16px;
+  display: block;
+  text-decoration: none;
+}
+
+.dropdown-content a:hover {
+  background-color: #f8f9fa; /* Warna latar belakang pada hover */
+}
+
+/* Responsive design */
+@media screen and (max-width: 768px) {
+  .navbar-links {
+    display: none;
+  }
+
+  .navbar-dropdown {
+    display: inline-block;
+  }
+
+  .navbar-dropdown:hover .dropdown-content {
+    display: block;
+  }
+}
