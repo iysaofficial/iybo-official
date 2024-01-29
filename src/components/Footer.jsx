@@ -11,7 +11,7 @@ const Footer = () => {
                 </div>
                 <div className="media-icons">
                     <a href="https://www.facebook.com/profile.php?id=100063979907207" target="_blank"><i className="fab fa-facebook-f"></i></a>
-                    <a href="https://www.instagram.com/iysa_official/?hl=id" target="_blank"><i className="fab fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/iybo.official/?hl=id" target="_blank"><i className="fab fa-instagram"></i></a>
                     <a href="https://www.youtube.com/@IYSAOfficial" target="_blank"><i className="fab fa-youtube"></i></a>
                     <a href="https://www.tiktok.com/@iysa.official" target="_blank"><i className="fab fa-tiktok"></i></a>
                     <a href="https://www.linkedin.com/company/indonesian-young-scientist-association-iysa" target="_blank"><i className="fab fa-linkedin"></i></a>
@@ -35,9 +35,9 @@ const Footer = () => {
                         <li><a href='https://wa.me/+6281770914129' target='_blank'>+62817-7091-4129</a></li>
                     </ul>
                     <ul className="box input-box">
-                        <form action="https://formspree.io/f/xeqbelvo" method="POST">
+                        <form action="https://formspree.io/f/xoqgjrok" method="POST">
                             <li className="link_name">Newsletter</li>
-                            <li><input type="email" placeholder="Enter Your Email"/></li>
+                            <input type="email" name="email" placeholder="Enter Your Email"/>
                             <li><input type="submit" value={"Subscribe"}/></li>
                         </form>
                     </ul>

@@ -28,18 +28,18 @@ const ContactComp = () =>{
                     <div className="right-side">
                         <div className="topic-text">Send us a message</div>
                         {/* <p>If you have any work from me or any types of quries related to my tutorial, you can send me message from here. it's my pleasure to help you.</p> */}
-                        <form action="#">
+                        <form action="https://formspree.io/f/xeqyenyl" method="POST">
                             <div className="input-box">
-                                <input type="text" placeholder="Enter your name"/>
+                                <input type="text" name="name" placeholder="Enter your name"/>
                             </div>
                             <div className="input-box">
-                                <input type="email" placeholder="Enter your email"/>
+                                <input type="email" name="email" placeholder="Enter your email"/>
                             </div>
                             <div className="input-box message-box">
-                                <textarea placeholder="Enter your message"></textarea>
+                                <textarea placeholder="Enter your message" name="message"></textarea>
                             </div>
                             <div className="button">
-                                <input type="button" value={"Send"}/>
+                                <input type="submit" value={"Send"}/>
                             </div>
                         </form>
                     </div>

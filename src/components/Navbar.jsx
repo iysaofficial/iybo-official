@@ -47,7 +47,7 @@ const Navbar = () => {
                     </ul>
                 </li> */}
                 <li><a href="#about">About</a></li>
-                <li><a href="#">Guide Book</a></li>
+                <li><a href="https://drive.google.com/file/d/1LBgLyXFv8SDJiZgaKl-2qxLDYs5T2LI8/view?usp=drive_link" target='_blank'>Guide Book</a></li>
                 <li><a href="#">Gallery</a></li>
                 <li><a href="#category">Category</a></li>  
                 <li><a href="#contact">Contact</a></li>

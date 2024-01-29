@@ -43,11 +43,12 @@
     color: white;
 }
 
-.hero-section .hero-container button{
+.hero-section .hero-container a{
     padding: 1em 2.1em 1.1em;
     border-radius: 4px;
     margin: 8px;
     border: none;
+    text-decoration: none;
     background-color: #e2e273;
     color: #000;
     font-weight: 800;
@@ -58,7 +59,7 @@
     transition: color 3s ease-in-out;
 }
 
-.hero-section .hero-container button:hover{
+.hero-section .hero-container a:hover{
     background-color: transparent;
     color: #8b4513;
     border: 3px solid #e2e273;
@@ -427,7 +428,7 @@
     margin-top: 12px;
 }
 
-.contact-section .contact-container .content .right-side .button input[type="button"]{
+.contact-section .contact-container .content .right-side .button input[type="submit"]{
     color: #fff;
     font-size: 18px;
     outline: none;
@@ -439,7 +440,7 @@
     transition: all 0.3s ease;
 }
 
-.contact-section .contact-container .content .right-side .button input[type="button"]:hover{
+.contact-section .contact-container .content .right-side .button input[type="submit"]:hover{
     background: #cef43c;
 }
 
