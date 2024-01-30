@@ -7,14 +7,6 @@ const CategoryComp = () =>{
             <div className="row">
                 <div className="category">
                     <i className="fa-solid fa-school"></i>
-                    <h2>Elemetary School</h2>
-                </div>
-                <div className="category">
-                    <i className="fa-solid fa-school"></i>
-                    <h2>Junior High School</h2>
-                </div>
-                <div className="category">
-                    <i className="fa-solid fa-school"></i>
                     <h2>Senior High School</h2>
                 </div>
                 <div className="category">
