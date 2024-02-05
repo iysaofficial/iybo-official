@@ -75,7 +75,6 @@
 
 @media(max-width:848px){
     .hero-section .hero-container{
-        margin-top: 10px;
         flex-direction: column;
     }
     .hero-section .hero-container .hero-text{
