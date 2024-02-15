@@ -47,13 +47,33 @@ const Navbar = () => {
                     </ul>
                 </li> */}
                 <li><a href="#about">About</a></li>
+                <li>
+                    <label htmlFor="btn-1" className='show'>List of Winner</label>
+                    <a href="#">List of Winner</a>
+                    <input type="checkbox" id='btn-1'/>
+                    <ul>
+                        <li><a href="https://drive.google.com/file/d/1ooTxpl96PcNtcfNVY0rBNYvT4EDJtw_i/view?usp=drive_link" target='_blank'>2023</a></li>
+                        {/* <li><a href="#">Elements</a></li>
+                        <li><a href="#">Icons</a></li> */}
+                    </ul>
+                </li>
+                <li>
+                    <label htmlFor="btn-1" className='show'>Curation</label>
+                    <a href="#">Curation</a>
+                    <input type="checkbox" id='btn-1'/>
+                    <ul>
+                        <li><a href="https://drive.google.com/drive/folders/1ifqMjkd9h2Wzj4VoWA1Z3ylUKGRSD8ue?usp=drive_link" target='_blank'>2023</a></li>
+                        {/* <li><a href="#">Elements</a></li>
+                        <li><a href="#">Icons</a></li> */}
+                    </ul>
+                </li>
                 <li><a href="https://drive.google.com/file/d/1LBgLyXFv8SDJiZgaKl-2qxLDYs5T2LI8/view?usp=drive_link" target='_blank'>Guide Book</a></li>
                 <li>
                     <label htmlFor="btn-1" className='show'>Gallery</label>
                     <a href="#">Gallery</a>
                     <input type="checkbox" id='btn-1'/>
                     <ul>
-                        <li><a href="https://drive.google.com/drive/folders/1tDzGqeV_WAxeCoTJmlp97FSzDYeoOoC8">2023</a></li>
+                        <li><a href="https://drive.google.com/drive/folders/1tDzGqeV_WAxeCoTJmlp97FSzDYeoOoC8" target='_blank'>2023</a></li>
                         {/* <li><a href="#">Elements</a></li>
                         <li><a href="#">Icons</a></li> */}
                     </ul>
