@@ -48,6 +48,16 @@ const Navbar = () => {
                 </li> */}
                 <li><a href="#about">About</a></li>
                 <li>
+                    <label htmlFor="btn-1" className='show'>Media Coverage</label>
+                    <a href="#">Media Coverage</a>
+                    <input type="checkbox" id='btn-1'/>
+                    <ul>
+                        <li><a href="https://drive.google.com/file/d/1jkpeD9EN2kWu059MDmriUHgqil_P31xT/view" target='_blank'>Press Release 2023</a></li>
+                        {/* <li><a href="#">Elements</a></li>
+                        <li><a href="#">Icons</a></li> */}
+                    </ul>
+                </li>
+                <li>
                     <label htmlFor="btn-1" className='show'>List of Winner</label>
                     <a href="#">List of Winner</a>
                     <input type="checkbox" id='btn-1'/>
@@ -67,6 +77,16 @@ const Navbar = () => {
                         <li><a href="#">Icons</a></li> */}
                     </ul>
                 </li>
+                <li>
+                    <label htmlFor="btn-1" className='show'>Certificate Supervisor</label>
+                    <a href="#">Certificate Supervisor</a>
+                    <input type="checkbox" id='btn-1'/>
+                    <ul>
+                        <li><a href="https://drive.google.com/drive/folders/14YH4DDJp88MjeEI0pDst82Bf_BymNZbg" target='_blank'>2023</a></li>
+                        {/* <li><a href="#">Elements</a></li>
+                        <li><a href="#">Icons</a></li> */}
+                    </ul>
+                </li>
                 <li><a href="https://drive.google.com/file/d/1LBgLyXFv8SDJiZgaKl-2qxLDYs5T2LI8/view?usp=drive_link" target='_blank'>Guide Book</a></li>
                 <li>
                     <label htmlFor="btn-1" className='show'>Gallery</label>
@@ -78,8 +98,8 @@ const Navbar = () => {
                         <li><a href="#">Icons</a></li> */}
                     </ul>
                 </li>
-                <li><a href="#category">Category</a></li>  
-                <li><a href="#contact">Contact</a></li>
+                {/* <li><a href="#category">Category</a></li>  
+                <li><a href="#contact">Contact</a></li> */}
             </ul>
         </nav>
         </header>
