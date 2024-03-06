@@ -87,7 +87,7 @@ const Navbar = () => {
                         <li><a href="#">Icons</a></li> */}
                     </ul>
                 </li>
-                <li><a href="https://drive.google.com/file/d/1LBgLyXFv8SDJiZgaKl-2qxLDYs5T2LI8/view?usp=drive_link" target='_blank'>Guide Book</a></li>
+                <li><a href="https://drive.google.com/file/d/1mq0fsePWzBDQxXD_Urg2bSQWrXJvD_1X/view?usp=drive_link" target='_blank'>Guide Book</a></li>
                 <li>
                     <label htmlFor="btn-1" className='show'>Gallery</label>
                     <a href="#">Gallery</a>
