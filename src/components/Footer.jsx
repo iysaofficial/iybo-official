@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="content">
             <div className="top">
                 <div className="logo-details">
-                    <i><img src="./assets/images/IYBO.png" alt="IYBO"/></i>
+                    <i><img src="./assets/images/logo/IYBO.png" alt="IYBO"/></i>
                 </div>
                 <div className="media-icons">
                     <a href="https://www.facebook.com/profile.php?id=100063979907207" target="_blank"><i className="fab fa-facebook-f"></i></a>
