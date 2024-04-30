@@ -49,19 +49,19 @@
     margin: 8px;
     border: none;
     text-decoration: none;
-    background-color: #e2e273;
-    color: #000;
+    background-color: #cef43c;
+    color: #2f7b0c;
     font-weight: 800;
     font-size: 0.85em;
     text-transform: uppercase;
     text-align: center;
-    box-shadow: 0em -0.2rem 0em #f5f5dc inset;
-    transition: color 3s ease-in-out;
+    /* box-shadow: 0em -0.2rem 0em #f5f5dc inset; */
+    transition: color .2    s ease-in-out;
 }
 
 .hero-section .hero-container a:hover{
     background-color: transparent;
-    color: #8b4513;
+    color: #fff;
     border: 3px solid #e2e273;
     cursor: pointer;
 }

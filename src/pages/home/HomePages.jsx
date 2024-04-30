@@ -13,6 +13,9 @@ import '../../assets/css/home/Home.css'
 const HomePages = () =>{
     return(
         <>
+        <br />
+        <br />
+        <br />
         <HeroComp></HeroComp>
         <AboutComp></AboutComp>
         <CategoryComp></CategoryComp>
