@@ -61,6 +61,7 @@ const NavbarComp = () =>{
                         <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1ooTxpl96PcNtcfNVY0rBNYvT4EDJtw_i/view?usp=drive_link" target='_blank'>List of Winner 2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1H6Sq8RTedOVvFv1en4GuGO20iSmzJizO/view?usp=drive_link" target='_blank'>List of Winner 2024</a></li>
                         </ul>
                     </li>
 
@@ -75,6 +76,7 @@ const NavbarComp = () =>{
                         <a className='sub-btn' href="#">Certificate Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/14YH4DDJp88MjeEI0pDst82Bf_BymNZbg" target='_blank'>Certificate Supervisor 2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/126tKrK-L35QOpwGMvaF4Jme7efGVHHQt" target='_blank'>E-Certificate 2024</a></li>
                         </ul>
                     </li>
 
