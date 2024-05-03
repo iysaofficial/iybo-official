@@ -76,6 +76,7 @@ const NavbarComp = () =>{
                         <a className='sub-btn' href="#">Certificate Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/14YH4DDJp88MjeEI0pDst82Bf_BymNZbg" target='_blank'>Certificate Supervisor 2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/1E_Z5ecDyXWQ2REa8GGTuxL8GXzwgzb9E" target='_blank'>Certificate Supervisor 2024</a></li>
                         </ul>
                     </li>
 
