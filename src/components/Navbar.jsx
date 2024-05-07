@@ -54,6 +54,7 @@ const NavbarComp = () =>{
                         <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1jkpeD9EN2kWu059MDmriUHgqil_P31xT/view" target='_blank'>Press Release 2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/18dkpe3f-rHJnmxn4YBWy7EpZjfi5EhJk/view?usp=drive_link" target='_blank'>Press Release 2024</a></li>
                         </ul>
                     </li>
 
@@ -84,6 +85,7 @@ const NavbarComp = () =>{
                         <a className='sub-btn' href="#">Gallery <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1tDzGqeV_WAxeCoTJmlp97FSzDYeoOoC8" target='_blank'>2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1otO678XWKJeyTUa9nEpsqGgGMzK2Mcq9?usp=sharing" target='_blank'>2024</a></li>
                         </ul>
                     </li>
 
