@@ -3,7 +3,7 @@ const AboutComp = () =>{
         <>                
         <section className="about-section" id="about">
         <div className="about-container">
-            <h1 className="about-heading">About IYMO</h1>
+            <h1 className="about-heading">About IYBO</h1>
             <div className="box-container">
                 <div className="box">
                     <img src="./assets/images/logo/IYBO.png" alt=""/>
