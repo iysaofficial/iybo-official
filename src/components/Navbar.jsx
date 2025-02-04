@@ -62,6 +62,7 @@ const NavbarComp = () =>{
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1gXgYEasVsKV4SWsq3hbl307qlILE4KBY/view?usp=sharing" target='_blank'>List of Winner 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1H6Sq8RTedOVvFv1en4GuGO20iSmzJizO/view?usp=drive_link" target='_blank'>List of Winner 2024</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1ooTxpl96PcNtcfNVY0rBNYvT4EDJtw_i/view?usp=drive_link" target='_blank'>List of Winner 2023</a></li>
                         </ul>
@@ -78,6 +79,7 @@ const NavbarComp = () =>{
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Certificate Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1vLhW2nU6zY7KoqYhCXUPWuq7GdyPdFqT?usp=sharing" target='_blank'>Certificate Supervisor 2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/1E_Z5ecDyXWQ2REa8GGTuxL8GXzwgzb9E" target='_blank'>Certificate Supervisor 2024</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/14YH4DDJp88MjeEI0pDst82Bf_BymNZbg" target='_blank'>Certificate Supervisor 2023</a></li>
                         </ul>
