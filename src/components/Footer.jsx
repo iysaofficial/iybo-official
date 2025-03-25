@@ -31,7 +31,7 @@ const Footer = () => {
                     <ul className="box">
                         <li className="link_name">Office</li>
                         <li><a href="https://goo.gl/maps/9x18coXGCmSscKec6" target="_blank">Jl. Kemang, Pasir Putih, Kecamatan. Sawangan, Kota Depok, Jawa Barat 16519</a></li>
-                        <li><a href='mailto: iybo.official@gmail.com ' target='_blank' className=""> iybo.official@gmail.com </a></li>
+                        <li><a href='mailto:iysa.olympiad@gmail.com ' target='_blank' className="">iysa.olympiad@gmail.com</a></li>
                         <li><a href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</a></li>
                     </ul>
                     <ul className="box input-box">
