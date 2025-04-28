@@ -326,6 +326,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border-top: 8px solid #cef43c;
     border-bottom: 8px solid #cef43c;
 }
 
@@ -510,7 +511,6 @@
     display: grid;
     place-items: center;
     font-family: 'Barlow', sans-serif;
-    border-bottom: 8px solid #cef43c;
 }
 
 .brand-logo-section .brand-logo-container h1{
